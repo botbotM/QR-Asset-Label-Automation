@@ -55,7 +55,7 @@
 - セットを表す末尾5桁
 - 管理番号全体を格納したQRコード
 
-![QRシールのサンプル](sample/test_label.png)
+![QRシールのサンプル](QR%20Asset%20Label%20Automation/sample/test_label.png)
 
 ## 使用技術
 
